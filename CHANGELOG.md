@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/CloudAstro/terraform-azurerm-network-security-group/compare/v1.0.0...v1.1.0) (2026-06-22)
+
+
+### Features
+
+* update tf and provider version ([88ab6a6](https://github.com/CloudAstro/terraform-azurerm-network-security-group/commit/88ab6a64ef79a18b4a376e5807c97ae533d2e6d9))
+
 ## 1.0.0 (2025-05-12)
 
 
